@@ -1,0 +1,67 @@
+2257401
+
+
+
+which of the following is not a corrct wau fpr ;upi tp i[date the content of a knowledge portal?
+i have  full freeedom to create/update content without any review
+
+which of the following is an agile approach for work alloaction in ateam
+team lead consults team members and assign work to them
+
+which of the follwoing is not a characterstic of good value log entry
+an opportinutiy in which customer sees no value
+
+which of the following is not a mandatory practive of value maximization scurm
+burndonw chart
+
+what is the best way  to contuously capture and share a teams knowledge
+continuously updating knowledge into a central repository
+
+which of the following is not recommended for change implementation?
+perform multi-tasking while executing change implementation steps
+
+what is the best approach for a team to keep the stakeholders continuously update on the work status?
+sharing a digital/physical kanban board that is continuously updated
+
+a BAU Team is already struggling
+FALSE-They shuld start value maximization scrum--- option d
+
+who should be a product owner (PO)  in value maximization scrum team
+Anyone whou has a clear vision for the selected ffvalue log opportunities
+ ---option B
+
+
+Which of the follwoing are useful visual radiators
+All of the above
+
+Which of the following is an agile way of working
+Team member collectively create play and take decissions team members execute tasks
+
+which of the following is not a intended outcome of collective work  management 
+a Team who makes all the decissions and a lead who does not monitor the team
+
+ which of the following is not true about value maximization scrum
+scrum team member who full time everyday on value log opportunities
+
+who can add entries to value log
+anyone in the team
+
+which of the following is the most practical and agile approach for achiveing work coordination among a distrubuted team?
+having a digital kanban board that is common for all team members across the locations
+
+
+what is the most effexctive way to identify improvement opportunites for vlaue log
+every team member constantly quertions "is there a better way to do our work
+
+which of the following is the least important consideration while forming a value maximization scrum team
+associates years of experience
+
+which of the followngn is not abenifit of visulization of work
+reduced infolow of work items
+
+
+
+ 
+
+
+
